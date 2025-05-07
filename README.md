@@ -8,10 +8,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 
-<!-- Animated SVG shown once -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+languages.&center=true&width=380&height=45">
-</p>
+
 
 - 🏢 I'm a Software Engineer and frontend manager
 - 🌍 I speak German and English fluentlyز
